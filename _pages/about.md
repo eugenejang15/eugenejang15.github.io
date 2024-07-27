@@ -5,7 +5,7 @@ permalink: /
 <<<<<<< HEAD
 subtitle: University of Southern California
 =======
-subtitle: PhD Candidate, University of Southern California
+subtitle: <a href='#'>PhD Candidate, University of Southern CaliforniaAffiliations</a>.
 >>>>>>> 9dc8a4a485a57a171ac10ba9b117431c9da348f9
 
 profile:
