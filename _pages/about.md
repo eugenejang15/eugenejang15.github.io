@@ -3,10 +3,8 @@ layout: about
 title: about
 permalink: /
 <<<<<<< HEAD
-subtitle: University of Southern California
-=======
 subtitle: <a href='#'>PhD Candidate, University of Southern CaliforniaAffiliations</a>.
->>>>>>> 9dc8a4a485a57a171ac10ba9b117431c9da348f9
+=======
 
 profile:
   align: right
@@ -14,7 +12,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>3502 Watt Way</p>
-    <p>Los Angeles, CA 90089-0281</p>
+    <p>Los Angeles, CA 90089</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
