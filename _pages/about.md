@@ -2,12 +2,16 @@
 layout: about
 title: about
 permalink: /
+<<<<<<< HEAD
 subtitle: University of Southern California
+=======
+subtitle: PhD Candidate, University of Southern California
+>>>>>>> 9dc8a4a485a57a171ac10ba9b117431c9da348f9
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>3502 Watt Way</p>
     <p>Los Angeles, CA 90089-0281</p>
